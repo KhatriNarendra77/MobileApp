@@ -64,7 +64,7 @@ padding: 0;
     margin: 20px auto;
     width: 200px;
     height: 400px;
-    background-image: url(../image/omikuji.png);
+    background-image: url(../image/omikuji2.png);
     background-size: contain;
     background-repeat: no-repeat;
     cursor: pointer;
@@ -181,7 +181,7 @@ padding: 0;
         margin: 20px auto;
         width: 150px;
         height: 280px;
-        background-image: url( /10a_omikuji/image/omikuji.png);
+        background-image: url( /10a_omikuji/image/omikuji2.png);
         background-size: contain;
         background-repeat: no repeat;
         cursor: pointer;      /* マウスカーソルの種類を設定 */
